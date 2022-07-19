@@ -11,6 +11,21 @@ body{
     font-family: 'Poppins';
 }
 
+.last{
+    background-color: black;
+    padding: 2% 10% 1%;
+    justify-content: space-between;
+    color: white;
+    font-size: 16px;
+}
+
+.last div{
+    width: 15%;
+}
+.last i{
+    padding-right: 10%;
+}
+
 
 @media screen and (min-width:1024px){
     
@@ -272,6 +287,8 @@ body{
         display: flex;
         flex-direction: row !important;
     }
+
+    
      
 }
 
