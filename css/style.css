@@ -763,21 +763,20 @@ nav p:hover{
     .small{
         width: max-content;
         height: max-content;
-        margin-top: 111%;
+        margin-top: 124%;
         margin-bottom: 0;
     }
 
     .big{
-        /* width: 100%; */
-        margin-left: -22%;
-        width: max-content;
-        height: max-content;
+        width: 180%;
+        margin-left: -50%;
+        
     }
 
     .small1{
-        margin-top: 130%;
+        margin-top: 160%;
         margin-right: 2%;
-        margin-left: 22%;
+        margin-left: 5%;
     }
 
 
@@ -806,16 +805,17 @@ nav p:hover{
     }
 
     .white-box{
-        padding-top: 5%;
+        adding-top: 5%;
+        background-size: contain;
         background-image: url(../images/Rectangle\ 1807.png);
-        width: 50vw;
+        width: 100%;
         margin: auto;
-        height: 500px;
+        height: 450px;
         display: flex;
         flex-direction: column;
         color: #46B069;
         text-align-last: center;
-        background-repeat: no-repeat;    
+        background-repeat: no-repeat;  
     }
     .white-box:nth-of-type(3){
         padding-top: 2%;
@@ -876,7 +876,7 @@ nav p:hover{
     }
     
     #btn{
-        margin-left: 35%;
+        margin-left: 28%;
         margin-top: 8%;
     }
     
@@ -896,9 +896,10 @@ nav p:hover{
     }
     
     .alovera {
-        width: 50%;
+       /* width: 50%; */
         margin: auto;
         padding: 2% 0;
+        padding-left: 8%;
         padding-bottom: 10%;
     }
     
